@@ -38,3 +38,7 @@ Related android app repo: [Stable-Diffusion-Android](https://github.com/ShiftHac
 | realisticfantasy.zip | 25/02/2024 | [realisticfantasy](https://huggingface.co/Androidonnxfork/test/tree/main/fp16fullonnxsdquantized_in_ort/Realisticfantasy%2CdarkjungleMix%2CRestlessExistence%2CJucy666/realisticfantasy*) | [patch-25022024](https://github.com/ShiftHackZ/Local-Diffusion-Models-SDAI-ONXX/releases/tag/patch-25022024)
 | sunshinemix.zip | 25/02/2024 | [sunshinemix](https://huggingface.co/Androidonnxfork/test/tree/main/fp16fullonnxsdquantized_in_ort/othermodels1/sunshinemix*) | [patch-25022024](https://github.com/ShiftHackZ/Local-Diffusion-Models-SDAI-ONXX/releases/tag/patch-25022024)
 | universestable.zip | 25/02/2024 | [universestable](https://huggingface.co/Androidonnxfork/test/tree/main/fp16fullonnxsdquantized_in_ort/othermodels1/universestable*) | [patch-25022024](https://github.com/ShiftHackZ/Local-Diffusion-Models-SDAI-ONXX/releases/tag/patch-25022024)
+
+<!--
+https://huggingface.co/Androidonnxfork/test/tree/main/fp16fullonnxsdquantized_in_ort
+-->
